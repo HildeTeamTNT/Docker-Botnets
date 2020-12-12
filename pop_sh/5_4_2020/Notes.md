@@ -73,4 +73,4 @@ Now a the Docker Socket itselft is actually a websocket that is opened on one of
 __Ports:__
  * 2375
  * 2376
- * 4243 (idk why...)
+ * 4243 (idk why...) --> shodan count 'port:4243 product:Docker'
